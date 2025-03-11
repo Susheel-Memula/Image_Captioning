@@ -5,4 +5,4 @@ This project uses
    -Tensorflow/pytorch,Hugging face transformers,OpenCV/PIL (Pillow),Numpy,Gradio.
    -CNN,RNN,Transformer based models
 -Gradio(frontend)
-but it need a good envirorment with a good GPU.
+but it need a good envirorment with a good GPU for importing more datasets for getting the captions more accurately.
