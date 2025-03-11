@@ -6,4 +6,4 @@ This project uses
    -CNN,RNN,Transformer based models
 -Gradio(frontend)
 but it need a good envirorment with a good GPU for importing more datasets for getting the captions more accurately.
-This is runned in gradio.
+This is runned in gradio.But in this project I have imported only 500 datasets,So this captioning project is not that accurate.
